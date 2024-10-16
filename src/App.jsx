@@ -1,3 +1,4 @@
+
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 
@@ -11,6 +12,7 @@ const App = () => {
       </div>
       <div className='flex items-center justify-center px-6 bg-primary'>
         <div className='max-w-[1280px] w-full'>
+
           <Footer />
         </div>
       </div>
